@@ -5,24 +5,12 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class SimpleTest {
-
-    private WebDriver driver;
-
-    @BeforeTest
-    public void start() {
-        driver = new ChromeDriver();
-    }
+public class SimpleTest extends BaseTest {
 
     @Test
     public void simpleTest() {
+
     driver.get("https://github.com/");
     driver.findElement(By.className("header-search-input"));
-    }
-
-    @AfterTest
-    public void finish() {
-        driver.quit();
-        driver = null;
     }
 }
