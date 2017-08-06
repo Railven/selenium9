@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TestMenuHeaders.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestMenuHeaders.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="18" column="37" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="37" />
+            <state relative-caret-position="200">
+              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -25,11 +25,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestProductStickers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestProductStickers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            <state relative-caret-position="100">
+              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCountriesList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestCountriesList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,8 +62,8 @@
       <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="23" column="72" lean-forward="false" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+            <state relative-caret-position="350">
+              <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,8 +105,9 @@
         <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/ImmutableBiMapFauxverideShim.class" />
         <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/CollectPreconditions.class" />
         <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestMenuHeaders.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestProductStickers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCountriesList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestMenuHeaders.java" />
       </list>
     </option>
   </component>
@@ -205,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestProductStickers.testMenuHeaders">
+  <component name="RunManager" selected="TestNG.TestMenuHeaders.testMenuHeaders">
     <configuration name="LoginScenarioTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Selenium9" />
@@ -430,8 +443,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest.simpleTest" />
@@ -453,44 +466,44 @@
       <updated>1500708631486</updated>
       <workItem from="1500708646174" duration="1384000" />
       <workItem from="1500710527256" duration="6603000" />
-      <workItem from="1501921984736" duration="19621000" />
+      <workItem from="1501921984736" duration="30848000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMenuHeaders - 2017.08.05 at 17h 09m 05s.xml">
-      <configuration name="TestMenuHeaders" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.05 at 21h 42m 11s.xml">
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 42m 28s.xml">
       <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.05 at 21h 43m 13s.xml">
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 43m 19s.xml">
       <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.05 at 21h 46m 53s.xml">
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 43m 54s.xml">
       <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.05 at 21h 49m 58s.xml">
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 18m 28s.xml">
       <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestProductStickers_testMenuHeaders - 2017.08.05 at 22h 14m 47s.xml">
-      <configuration name="TestProductStickers.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 37m 13s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestProductStickers_testMenuHeaders - 2017.08.05 at 22h 16m 02s.xml">
-      <configuration name="TestProductStickers.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 39m 19s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestProductStickers_testMenuHeaders - 2017.08.05 at 22h 17m 54s.xml">
-      <configuration name="TestProductStickers.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 40m 38s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestProductStickers_testMenuHeaders - 2017.08.05 at 22h 18m 24s.xml">
-      <configuration name="TestProductStickers.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 44m 18s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestProductStickers_testMenuHeaders - 2017.08.05 at 22h 19m 28s.xml">
-      <configuration name="TestProductStickers.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 46m 11s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 53m 22s.xml">
+      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27608000" />
+    <option name="totallyTimeSpent" value="38835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -505,7 +518,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25600436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4136646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4136646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -516,7 +529,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5068323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52670807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -562,7 +575,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="10" />
+      <option name="time" value="23" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -714,16 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="72" lean-forward="false" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/AdminMainPageOpener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -740,6 +743,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -748,10 +761,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCountriesList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="18" column="37" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="37" />
+        <state relative-caret-position="275">
+          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -760,8 +773,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -33,6 +33,15 @@ public class BaseTest {
         }
     }
 
+    public void openAdminPage() {
+        driver.get("http://localhost/litecart/admin/login.php");
+        String LogAndPass = "admin";
+        driver.findElement(By.name("username")).sendKeys(LogAndPass);
+        driver.findElement(By.name("password")).sendKeys(LogAndPass);
+        WebElement element = driver.findElement(By.name("login"));
+        element.click();
+    }
+
     @AfterTest
     public void finish() {
         driver.quit();
