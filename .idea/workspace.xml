@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TestMenuHeaders.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestMenuHeaders.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -28,11 +28,33 @@
       <file leaf-file-name="TestProductStickers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestProductInformation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestProductInformation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dimension.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,10 +84,12 @@
       <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            <state relative-caret-position="-25">
+              <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1487#1488#0" expanded="true" />
+                <element signature="e#1543#1544#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,10 +128,13 @@
         <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/SingletonImmutableBiMap.class" />
         <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/ImmutableBiMapFauxverideShim.class" />
         <option value="$MAVEN_REPOSITORY$/com/google/guava/guava/21.0/guava-21.0.jar!/com/google/common/collect/CollectPreconditions.class" />
-        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestProductStickers.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCountriesList.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestMenuHeaders.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestProductStickers.java" />
+        <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class" />
+        <option value="$PROJECT_DIR$/src/test/java/TestProductPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestProductInformation.java" />
       </list>
     </option>
   </component>
@@ -218,7 +245,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestMenuHeaders.testMenuHeaders">
+  <component name="RunManager" selected="TestNG.TestProductInformation.testMenuHeaders">
     <configuration name="LoginScenarioTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Selenium9" />
@@ -230,33 +257,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="LoginScenarioTest.simpleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="Selenium9" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LoginScenarioTest" />
-      <option name="METHOD_NAME" value="simpleTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -308,6 +308,33 @@
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TestMenuHeaders" />
+      <option name="METHOD_NAME" value="testMenuHeaders" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="TestProductInformation.testMenuHeaders" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="Selenium9" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestProductInformation" />
       <option name="METHOD_NAME" value="testMenuHeaders" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -436,18 +463,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest.simpleTest" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest.simpleTest" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.LoginScenarioTest" />
       </list>
     </recent_temporary>
   </component>
@@ -466,48 +493,47 @@
       <updated>1500708631486</updated>
       <workItem from="1500708646174" duration="1384000" />
       <workItem from="1500710527256" duration="6603000" />
-      <workItem from="1501921984736" duration="30848000" />
+      <workItem from="1501921984736" duration="36719000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 42m 28s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 30m 24s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 43m 19s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 32m 46s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 14h 43m 54s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 40m 16s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 18m 28s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 57m 21s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 37m 13s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 57m 53s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 39m 19s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 17h 59m 31s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 15h 40m 38s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 18h 03m 43s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 44m 18s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 18h 08m 37s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 46m 11s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 18h 34m 17s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestMenuHeaders_testMenuHeaders - 2017.08.06 at 16h 53m 22s.xml">
-      <configuration name="TestMenuHeaders.testMenuHeaders" configurationId="TestNG" />
+    <history-entry file="TestProductPage_testMenuHeaders - 2017.08.06 at 18h 35m 26s.xml">
+      <configuration name="TestProductPage.testMenuHeaders" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38835000" />
+    <option name="totallyTimeSpent" value="44706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -518,11 +544,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25600436" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4136646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20869565" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25621623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25621623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -551,7 +577,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5068323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52670807" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -575,7 +601,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="23" />
+      <option name="time" value="28" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -743,16 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="41" column="24" lean-forward="false" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -771,20 +787,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="200">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="-25">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1487#1488#0" expanded="true" />
+            <element signature="e#1543#1544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestProductInformation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

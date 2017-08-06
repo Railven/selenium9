@@ -6,7 +6,7 @@ import java.util.List;
 public class TestProductStickers extends BaseTest {
     @Test
     public void testMenuHeaders() {
-        driver.get("http://localhost/litecart/");
+        openMainPage();
         List<WebElement> products = driver.findElements(By.className("product"));
         for (int i = 0; i < products.size(); i++ ) {
             products = driver.findElements(By.className("product"));
