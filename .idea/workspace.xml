@@ -13,30 +13,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TestMenuHeaders.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestProductStickers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/TestProductStickers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestProductInformation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestProductInformation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,21 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dimension.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TestCountriesList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCountriesList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+            <state relative-caret-position="-1490">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,21 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SimpleTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BaseTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNewCustomerRegistration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestNewCustomerRegistration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-319">
+              <caret line="8" column="107" lean-forward="false" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,8 +99,9 @@
         <option value="$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class" />
         <option value="$PROJECT_DIR$/src/test/java/TestProductPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestProductInformation.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestCountriesList.java" />
         <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestCountriesList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestNewCustomerRegistration.java" />
       </list>
     </option>
   </component>
@@ -158,7 +127,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
     <option name="width" value="1924" />
@@ -243,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestCountriesList.testCountriesList">
+  <component name="RunManager" selected="TestNG.TestNewCustomerRegistration.testNewCustomerRegistration">
     <configuration name="TestCountriesList.testCountriesList" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Selenium9" />
@@ -325,15 +294,15 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestProductInformation.testMenuHeaders" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Selenium9" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestProductInformation" />
-      <option name="METHOD_NAME" value="testMenuHeaders" />
+      <option name="MAIN_CLASS_NAME" value="TestNewCustomerRegistration" />
+      <option name="METHOD_NAME" value="testNewCustomerRegistration" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -352,14 +321,14 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="TestProductStickers.testMenuHeaders" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestProductInformation.testMenuHeaders" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Selenium9" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestProductStickers" />
+      <option name="MAIN_CLASS_NAME" value="TestProductInformation" />
       <option name="METHOD_NAME" value="testMenuHeaders" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="METHOD" />
@@ -461,18 +430,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testCountriesList" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testGeoZones" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testCountriesList" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testGeoZones" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.TestNewCustomerRegistration.testNewCustomerRegistration" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testCountriesList" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testGeoZones" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.TestProductStickers.testMenuHeaders" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestNewCustomerRegistration.testNewCustomerRegistration" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testCountriesList" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.TestCountriesList.testGeoZones" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.TestProductInformation.testMenuHeaders" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.TestMenuHeaders.testMenuHeaders" />
       </list>
     </recent_temporary>
   </component>
@@ -493,47 +462,47 @@
       <workItem from="1500710527256" duration="6603000" />
       <workItem from="1501921984736" duration="37325000" />
       <workItem from="1502129402066" duration="1822000" />
-      <workItem from="1502131592095" duration="10615000" />
+      <workItem from="1502131592095" duration="15141000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCountriesList_testCountriesList - 2017.08.08 at 21h 03m 48s.xml">
-      <configuration name="TestCountriesList.testCountriesList" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 54m 00s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 28m 32s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 54m 37s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 29m 09s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 55m 43s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 30m 45s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 56m 20s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 35m 38s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 58m 02s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 36m 42s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 17h 59m 25s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 43m 21s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 18h 04m 10s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 20h 51m 32s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 18h 09m 48s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 21h 00m 21s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 18h 10m 50s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestCountriesList_testGeoZones - 2017.08.08 at 21h 01m 31s.xml">
-      <configuration name="TestCountriesList.testGeoZones" configurationId="TestNG" />
+    <history-entry file="TestNewCustomerRegistration_testNewCustomerRegistration - 2017.08.09 at 18h 17m 50s.xml">
+      <configuration name="TestNewCustomerRegistration.testNewCustomerRegistration" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57749000" />
+    <option name="totallyTimeSpent" value="62275000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -628,7 +597,7 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="64" />
+      <option name="time" value="70" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="TestNG">
@@ -642,7 +611,7 @@
         <state relative-caret-position="150">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -652,7 +621,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -708,7 +677,7 @@
         <state relative-caret-position="150">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -718,7 +687,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -897,13 +866,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -912,16 +879,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0.jar!/org/openqa/selenium/Dimension.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestMenuHeaders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="25">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -935,20 +904,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestCountriesList.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="41" lean-forward="false" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+        <state relative-caret-position="200">
+          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BaseTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCountriesList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="-1490">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestNewCustomerRegistration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="8" column="107" lean-forward="false" selection-start-line="8" selection-start-column="107" selection-end-line="8" selection-end-column="107" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
