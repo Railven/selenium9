@@ -22,6 +22,7 @@ public class BaseTest {
     public void start() {
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        WebDriverWait wait = new WebDriverWait(driver, 10);
     }
 
     boolean isElementPresent(WebDriver driver, By locator) {
